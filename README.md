@@ -1,0 +1,1 @@
+Debido a la falta de conocimiento t manejo técnico de momento decidimos apegarnos a html al ser lo más familiar. Para la entrega 05 vamos a intentar integrar de la mejor forma posible el CSS y Javascript.
